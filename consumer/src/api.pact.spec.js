@@ -108,7 +108,7 @@ describe("API Pact test", () => {
           "Request failed with status code 401"
         );
       });
-    });    
+    });
   });
 
   describe("getting one product", () => {
